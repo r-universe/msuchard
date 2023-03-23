@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "IterativeHardThresholding"]
+	path = IterativeHardThresholding
+	url = https://github.com/cran/IterativeHardThresholding
+	shallow = true
+	registered = true
 [submodule "MultiBD"]
 	path = MultiBD
 	url = https://github.com/msuchard/multibd
+	shallow = true
+	registered = true
+[submodule "RcppXsimd"]
+	path = RcppXsimd
+	url = https://github.com/cran/RcppXsimd
 	shallow = true
 	registered = true
